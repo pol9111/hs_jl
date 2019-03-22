@@ -31,7 +31,7 @@
     * [53度汾酒大师（青韵）500ml](chapter1/fen-jiu/53du-fen-jiu-da-shi-ff08-qing-yun-ff09-500ml.md)
     * [38度金象竹叶青](chapter1/fen-jiu/38du-jin-xiang-zhu-xie-qing.md)
     * [45度国酿竹叶青500ml](chapter1/fen-jiu/45du-guo-niang-zhu-xie-qing-500ml.md)
-  * 五粮液
-  * 高粱酒
-  * 剑南春
+  * [高粱酒](chapter1/gao-liang-jiu.md)
+    * [52度剑南春](chapter1/gao-liang-jiu/52du-jian-nan-chun.md)
+  * [五粮液](chapter1/wu-liang-ye.md)
 
