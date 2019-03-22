@@ -8,7 +8,7 @@
     * [45度国花瓷西凤酒20年陈酿500ml](chapter1/xi-feng-jiu/45du-guo-hua-ci-xi-feng-jiu-20-nian-chen-niang-500ml.md)
     * [52度国花瓷西凤酒12年陈酿500ml](chapter1/xi-feng-jiu/52du-guo-hua-ci-xi-feng-jiu-12-nian-chen-niang-500ml.md)
   * [习酒](chapter1/xi-jiu.md)
-    * [贵州习酒君品88（500ml）](chapter1/xi-jiu/gui-zhou-xi-jiu-jun-pin-88-500ml.md)
+    * [习酒君品88（500ml）](chapter1/xi-jiu/gui-zhou-xi-jiu-jun-pin-88-500ml.md)
     * [习酒窖藏10年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-10-nian-ff08-500ml.md)
     * [习酒窖藏15年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-15-nian-ff08-500ml.md)
     * [习酒窖藏30年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-30-nian-ff08-500ml.md)
@@ -19,4 +19,7 @@
     * [53度十五年茅台](chapter1/mao-tai/53du-shi-wu-nian-mao-tai.md)
     * [53度三十年茅台](chapter1/mao-tai/53du-san-shi-nian-mao-tai.md)
     * [贵州大曲70年代500ml](chapter1/mao-tai/gui-zhou-da-qu-70-nian-dai-500ml.md)
+  * 洋河蓝色经典
+    * [42度洋河蓝色经典（海之蓝）](chapter1/42du-yang-he-lan-se-jing-dian-ff08-hai-zhi-lan-ff09.md)
+    * [52度洋河蓝色经典（海之蓝）](chapter1/52du-yang-he-lan-se-jing-dian-ff08-hai-zhi-lan-ff09.md)
 
