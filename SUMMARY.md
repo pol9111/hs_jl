@@ -33,5 +33,6 @@
     * [45度国酿竹叶青500ml](chapter1/fen-jiu/45du-guo-niang-zhu-xie-qing-500ml.md)
   * [高粱酒](chapter1/gao-liang-jiu.md)
     * [52度剑南春](chapter1/gao-liang-jiu/52du-jian-nan-chun.md)
+    * [58度金门高粱酒（823）600ml](chapter1/gao-liang-jiu/58du-jin-men-gao-liang-jiu-ff08-823-600ml.md)
   * [五粮液](chapter1/wu-liang-ye.md)
 
