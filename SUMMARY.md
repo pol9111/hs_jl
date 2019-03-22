@@ -6,6 +6,7 @@
     * [贵州习酒君品88（500ml）](chapter1/xi-jiu/gui-zhou-xi-jiu-jun-pin-88-500ml.md)
     * [习酒窖藏10年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-10-nian-ff08-500ml.md)
     * [习酒窖藏15年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-15-nian-ff08-500ml.md)
+    * [习酒窖藏30年（500ml）](chapter1/xi-jiu/xi-jiu-jiao-cang-30-nian-ff08-500ml.md)
   * [西凤酒](chapter1/xi-feng-jiu.md)
     * [52度宝花瓷西凤酒460ml](chapter1/xi-feng-jiu/52du-bao-hua-ci-xi-feng-jiu-460ml.md)
     * [52度国花瓷西凤酒5年陈酿500ml](chapter1/xi-feng-jiu/52du-guo-hua-ci-xi-feng-jiu-5-nian-chen-niang-500ml.md)
