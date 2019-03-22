@@ -18,4 +18,5 @@
     * [53度（珍藏）茅台酒475ml](chapter1/mao-tai/53du-ff08-zhen-cang-ff09-mao-tai-jiu-475ml.md)
     * [53度十五年茅台](chapter1/mao-tai/53du-shi-wu-nian-mao-tai.md)
     * [53度三十年茅台](chapter1/mao-tai/53du-san-shi-nian-mao-tai.md)
+    * [贵州大曲70年代500ml](chapter1/mao-tai/gui-zhou-da-qu-70-nian-dai-500ml.md)
 
