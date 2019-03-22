@@ -39,4 +39,6 @@
     * [五粮液自由度（620ml+280ml）](chapter1/wu-liang-ye/wu-liang-ye-zi-you-du-ff08-620ml-+-280ml.md)
   * [剑南春](chapter1/jian-nan-chun.md)
     * [52度剑南春](chapter1/gao-liang-jiu/52du-jian-nan-chun.md)
+  * [其他](chapter1/qi-ta.md)
+    * [53度国乡荷花酒（500ml）](chapter1/qi-ta/53du-guo-xiang-he-hua-jiu-ff08-500ml.md)
 
