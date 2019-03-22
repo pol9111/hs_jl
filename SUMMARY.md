@@ -34,5 +34,6 @@
   * [高粱酒](chapter1/gao-liang-jiu.md)
     * [52度剑南春](chapter1/gao-liang-jiu/52du-jian-nan-chun.md)
     * [58度金门高粱酒（823）600ml](chapter1/gao-liang-jiu/58du-jin-men-gao-liang-jiu-ff08-823-600ml.md)
+    * [58度坛装金门高粱酒（1L）](chapter1/gao-liang-jiu/58du-tan-zhuang-jin-men-gao-liang-jiu-ff08-1l.md)
   * [五粮液](chapter1/wu-liang-ye.md)
 
