@@ -27,6 +27,9 @@
     * [52度洋河蓝色经典梦之蓝（M6）](chapter1/52du-yang-he-lan-se-jing-dian-meng-zhi-lan-ff08-m6.md)
   * [汾酒](chapter1/fen-jiu.md)
     * [53度汾酒青花20年500ml](chapter1/fen-jiu/53du-fen-jiu-qing-hua-20-nian-500ml.md)
+    * [53度汾酒青花30年500ml](chapter1/fen-jiu/53du-fen-jiu-qing-hua-30-nian-500ml.md)
+    * [53度汾酒大师（青韵）500ml](chapter1/fen-jiu/53du-fen-jiu-da-shi-ff08-qing-yun-ff09-500ml.md)
+    * [38度金象竹叶青](chapter1/fen-jiu/38du-jin-xiang-zhu-xie-qing.md)
   * 五粮液
   * 高粱酒
   * 剑南春
