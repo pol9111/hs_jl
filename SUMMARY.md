@@ -37,4 +37,5 @@
     * [58度坛装金门高粱酒（1L）](chapter1/gao-liang-jiu/58du-tan-zhuang-jin-men-gao-liang-jiu-ff08-1l.md)
     * [53度金门高粱酒1958珍藏（600ml）](chapter1/gao-liang-jiu/53du-jin-men-gao-liang-jiu-1958-zhen-cang-ff08-600ml.md)
   * [五粮液](chapter1/wu-liang-ye.md)
+    * [五粮液自由度（620ml+280ml）](chapter1/wu-liang-ye/wu-liang-ye-zi-you-du-ff08-620ml-+-280ml.md)
 
