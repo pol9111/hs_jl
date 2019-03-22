@@ -24,4 +24,5 @@
     * [52度洋河蓝色经典（海之蓝）](chapter1/52du-yang-he-lan-se-jing-dian-ff08-hai-zhi-lan-ff09.md)
     * [52度洋河蓝色经典（天之蓝）](chapter1/52du-yang-he-lan-se-jing-dian-sheng-ji-ban-ff08-tian-zhi-lan-ff09.md)
     * [52度洋河蓝色经典梦之蓝（M3）](chapter1/52du-yang-he-lan-se-jing-dian-meng-zhi-lan-ff08-m3.md)
+    * [52度洋河蓝色经典梦之蓝（M6）](chapter1/52du-yang-he-lan-se-jing-dian-meng-zhi-lan-ff08-m6.md)
 
