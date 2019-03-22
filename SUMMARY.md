@@ -16,4 +16,6 @@
     * [53度茅台迎宾酒（蓝色）425ml](chapter1/mao-tai/53du-mao-tai-ying-bin-jiu-ff08-lan-se-ff09-425ml.md)
     * [53度茅台醇（和醇） 柔和酱香 500ml](chapter1/mao-tai/53du-mao-tai-chun-ff08-he-chun-ff09-rou-he-jiang-xiang-500ml.md)
     * [53度（珍藏）茅台酒475ml](chapter1/mao-tai/53du-ff08-zhen-cang-ff09-mao-tai-jiu-475ml.md)
+    * [53度十五年茅台](chapter1/mao-tai/53du-shi-wu-nian-mao-tai.md)
+    * [53度三十年茅台](chapter1/mao-tai/53du-san-shi-nian-mao-tai.md)
 
